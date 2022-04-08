@@ -1,9 +1,13 @@
 
+
 function Game() {
     return (
-        <div>
-            Hello Wolrd
+    <header>
+        <div id="myApp">
+            {/*-- placeholder --*/}
         </div>
+        <script type="module" src="./myapp.js" ></script>
+    </header>
     );
 }
 
