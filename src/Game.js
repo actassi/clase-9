@@ -1,12 +1,23 @@
 // import React from 'react';
 // import Clock from './Clock';
 
+<<<<<<< HEAD
 /*function Game() {
     return (
         <div>
             Hello Wolrd
             <Clock date={new Date()} />
+=======
+
+function Game() {
+    return (
+    <header>
+        <div id="myApp">
+            {/*-- placeholder --*/}
+>>>>>>> 2e83e6edc8434dfc14394cc48a69e1690b9666cc
         </div>
+        <script type="module" src="./myapp.js" ></script>
+    </header>
     );
 }
 
